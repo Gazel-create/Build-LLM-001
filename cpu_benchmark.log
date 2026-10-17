@@ -1,0 +1,29 @@
+/home/gazel/LLM-scratch/training_env/lib64/python3.14/site-packages/torch/cuda/__init__.py:228: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 12000). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /__w/pytorch/pytorch/c10/cuda/CUDAFunctions.cpp:119.)
+  return torch._C._cuda_getDeviceCount() > 0
+Ep 1 (Step 000000): Train loss 9.812, Val loss 9.846 | Tokens: 512 | Speed: 108.4 tok/s | Step: 4.73s | Elapsed: 7.0s
+Ep 1 (Step 000005): Train loss 7.588, Val loss 8.044 | Tokens: 3072 | Speed: 97.8 tok/s | Step: 5.24s | Elapsed: 33.2s
+Every effort moves you,,,,,,,,,,,,.                                     
+Ep 2 (Step 000010): Train loss 6.582, Val loss 6.800 | Tokens: 5632 | Speed: 113.2 tok/s | Step: 4.52s | Elapsed: 66.3s
+Ep 2 (Step 000015): Train loss 5.920, Val loss 6.592 | Tokens: 8192 | Speed: 94.8 tok/s | Step: 5.40s | Elapsed: 94.4s
+Every effort moves you, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and
+Ep 3 (Step 000020): Train loss 15.767, Val loss 16.154 | Tokens: 10752 | Speed: 104.4 tok/s | Step: 4.90s | Elapsed: 128.0s
+Ep 3 (Step 000025): Train loss 5.494, Val loss 6.384 | Tokens: 13312 | Speed: 120.6 tok/s | Step: 4.25s | Elapsed: 152.4s
+Every effort moves you of the                                                
+Ep 4 (Step 000030): Train loss 4.373, Val loss 6.328 | Tokens: 15872 | Speed: 113.7 tok/s | Step: 4.50s | Elapsed: 183.3s
+Ep 4 (Step 000035): Train loss 2.824, Val loss 6.258 | Tokens: 18432 | Speed: 106.4 tok/s | Step: 4.81s | Elapsed: 211.7s
+Every effort moves you know it                                                
+Ep 5 (Step 000040): Train loss 3.969, Val loss 6.221 | Tokens: 20992 | Speed: 97.9 tok/s | Step: 5.23s | Elapsed: 242.4s
+Every effort moves you know the "Oh, and in the fact, and I had been him.     "Oh, and in the first I, and I had been the donkey. "Oh, and in the first, and in the
+Ep 6 (Step 000045): Train loss 2.638, Val loss 6.221 | Tokens: 23552 | Speed: 114.0 tok/s | Step: 4.49s | Elapsed: 271.5s
+Ep 6 (Step 000050): Train loss 3.156, Val loss 6.194 | Tokens: 26112 | Speed: 110.2 tok/s | Step: 4.65s | Elapsed: 297.0s
+Every effort moves you know the "I turned, I was not the fact with a little a little: "Yes, and in fact, and I had been the moment--as Jack himself, and in the fact, I had been the picture--I had the
+Ep 7 (Step 000055): Train loss 2.676, Val loss 6.162 | Tokens: 28672 | Speed: 112.6 tok/s | Step: 4.55s | Elapsed: 326.9s
+Ep 7 (Step 000060): Train loss 1.728, Val loss 6.274 | Tokens: 31232 | Speed: 116.2 tok/s | Step: 4.41s | Elapsed: 353.2s
+Every effort moves you know," was one of the picture for nothing--I told Mrs.  "I looked--I looked up, I felt to see a smile behind his close that he had been; and as I felt, and down, with a small picture
+Ep 8 (Step 000065): Train loss 0.933, Val loss 6.259 | Tokens: 33792 | Speed: 124.4 tok/s | Step: 4.12s | Elapsed: 382.6s
+Ep 8 (Step 000070): Train loss 1.371, Val loss 6.272 | Tokens: 36352 | Speed: 114.5 tok/s | Step: 4.47s | Elapsed: 405.9s
+Every effort moves you?"  "Yes--quite insensible to the irony. She wanted him vindicated--and by me!"  He laughed again, and threw back his head to look up at the honour being _mine_--because he had always his
+Ep 9 (Step 000075): Train loss 0.762, Val loss 6.329 | Tokens: 38912 | Speed: 101.0 tok/s | Step: 5.07s | Elapsed: 437.1s
+Ep 9 (Step 000080): Train loss 0.563, Val loss 6.462 | Tokens: 41472 | Speed: 98.5 tok/s | Step: 5.20s | Elapsed: 463.1s
+Every effort moves you?"  "Yes--quite insensible to the irony. She wanted him vindicated--and by me!"  He laughed again, and threw back the window-curtains, I saw that, and down the room, my eyes
+Ep 10 (Step 000085): Train loss 0.358, Val loss 6.542 | Tokens: 44032 | Speed: 120.1 tok/s | Step: 4.26s | Elapsed: 492.5s
